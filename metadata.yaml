@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5507'
     url: http://www.gutenberg.org/2009/agents/5507
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14411#The-Children-s-Six-Minutes
 gutenberg_bookshelf: Children's Religion
 gutenberg_issued: '2004-12-21'
 gutenberg_type: Text
