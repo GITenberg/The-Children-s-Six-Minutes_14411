@@ -1,0 +1,28 @@
+_repo: The-Children-s-Six-Minutes_14411
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wright, Bruce S. (Bruce Simpson)
+    alias: Wright, Bruce Simpson
+    birthdate: 1879
+    deathdate: 1942
+    gutenberg_agent_id: '5507'
+    url: http://www.gutenberg.org/2009/agents/5507
+description: ''
+gutenberg_bookshelf: Children's Religion
+gutenberg_issued: '2004-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14411'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s sermons'
+- !lcc 'BV'
+title: The Children's Six Minutes
+url: http://www.gutenberg.org/ebooks/14411
